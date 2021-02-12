@@ -1,7 +1,7 @@
 const fetch = require('isomorphic-unfetch')
 
 class AuthFetch {
-  constructor(token, url) {
+  constructor(url, token) {
     this.token = token
     this.url = url
   }
