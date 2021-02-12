@@ -1,7 +1,7 @@
 {
   "name": "auth-fetch",
   "description": "Fetch JSON with a Bearer token",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Pablo Varela <pablo@pablopunk.com>",
   "bugs": {
     "url": "https://github.com/pablopunk/auth-fetch/issues",
